@@ -1,0 +1,36 @@
+baseURL = 'https://jubnzv.github.io/'
+languageCode = 'en-us'
+title = 'Idie'
+theme = 'smol'
+summaryLength = 50
+paginate=3 # articles per page
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
+
+[[menu.footer]]
+name = "E-mail"
+url = "mailto:jubnzv@gmail.com"
+[[menu.footer]]
+name = "GitHub"
+url = "https://github.com/jubnzv"
+[[menu.footer]]
+name = "Telegram"
+url = "https://t.me/jubnzv"
+[[menu.footer]]
+name = "LinkedIn"
+url = "https://linkedin.com/in/jubnzv"
