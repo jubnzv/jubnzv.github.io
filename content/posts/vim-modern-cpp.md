@@ -277,7 +277,7 @@ For each project we need to create [vimspector.json](https://github.com/puremour
       "adapter": "vscode-cpptools",
       "configuration": {
         "request": "launch",
-        "program": "testrunner",
+        "program": "${gadgetDir}/vscode-cpptools/debugAdapters/bin/OpenDebugAD7",
         "externalConsole": true
       }
     }
