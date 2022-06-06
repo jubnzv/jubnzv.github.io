@@ -3,10 +3,10 @@ languageCode = 'en-us'
 title = 'Idie'
 theme = 'smol'
 summaryLength = 50
-paginate=3 # articles per page
+paginate=10 # articles per page
 
 [[menu.main]]
-name = "All posts"
+name = "Posts"
 url = "/posts"
 weight = 1
 [[menu.main]]
