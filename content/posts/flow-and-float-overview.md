@@ -95,9 +95,9 @@ This issue is [well described](https://github.com/muttoni/float/blob/5421ba35b68
 The problem is that the API endpoint from the Flow blockchain doesn't answer. So, you should wait until the problem in the Flow network will be fixed. You could monitor the status of the network [here](https://docs.onflow.org/status/).
 
 ## Conclusions
-In this post we have cursorily considered the most interesting features of the [Flow blockchain](https://www.onflow.org/) and took a look at the [Float](https://floats.city) project. To get the systematic and complete understanding of the internals, you should read their comprehensive [documentation](https://docs.onflow.org/) and technical papers. Now you have the basic understanding of features you may be interested, so you could take a look at the specific parts of documentation interesting to you to solve your problems.
+In this post we have considered the most interesting features of the [Flow blockchain](https://www.onflow.org/) and took a look at the [Float](https://floats.city) project. To get the systematic and complete understanding of the internals, you should read their comprehensive [documentation](https://docs.onflow.org/) and technical papers. Now you have the basic understanding of features you may be interested, so you could take a look at the specific parts of documentation interesting to you to solve your problems.
 
-I also hope, someone could have a better understanding of the Float project now. Because when you conceptually understand how it internally implemented, you won't fear another strange error now.
+I also hope that now someone will be able to better understand the Float project. Because when you conceptually understand how it is implemented internally, now you will not be afraid of another creepy error.
 
 ## Further reading
 * [Flow documentation](https://docs.onflow.org/)
