@@ -3,6 +3,7 @@ title: "Using (neo)vim for C++ development"
 date: 2021-01-08T09:23:31+03:00
 toc: true
 tags: [cpp, vim, tools]
+GHissueID: 2
 ---
 
 ## Background

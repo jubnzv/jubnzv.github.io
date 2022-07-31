@@ -3,6 +3,7 @@ title: "An overview of the Flow blockchain and the Float project"
 date: 2022-06-30T11:47:09+03:00
 toc: true
 tags: [crypto, flow]
+GHissueID: 4
 ---
 
 ## Introduction

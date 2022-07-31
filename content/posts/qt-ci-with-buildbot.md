@@ -3,6 +3,7 @@ title: "Creating CI pipelines for C++/Qt applications with Buildbot"
 date: 2021-01-18T09:23:31+03:00
 toc: true
 tags: [ci, buildbot]
+GHissueID: 3
 ---
 
 ## Introduction
