@@ -7,7 +7,7 @@ GHissueID: 4
 ---
 
 ## Introduction
-After some discussions in [the chat about Float](http://t.me/floats_discussion), I decided to make this short technical overview of the Flow blockchain with some introduction to the Float project. This allows the participants of the chat to quickly understand what is going on under the hood to troubleshoot possible errors without reading the whole documentation and the source code. So, I will refer to this post in further discussions in the related chats.
+After some discussions in the chat about Float, I decided to make this short technical overview of the Flow blockchain with some introduction to the Float project. This allows the participants of the chat to quickly understand what is going on under the hood to troubleshoot possible errors without reading the whole documentation and the source code. So, I will refer to this post in further discussions in the related chats.
 
 In this post we will consider:
 * The key traits of the Flow blockchain, which set it apart from other networks.
