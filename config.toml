@@ -3,7 +3,9 @@ languageCode = 'en-us'
 title = 'Idie'
 theme = 'smol'
 summaryLength = 50
-paginate=10 # articles per page
+
+[pagination]
+pagerSize = 10 # articles per page
 
 [[menu.main]]
 name = "Posts"
